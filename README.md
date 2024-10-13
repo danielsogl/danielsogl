@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Daniel Sogl!
 
-<!--
-**danielsogl/danielsogl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Architect** at [Thinktecture AG](https://www.thinktecture.com/) in Karlsruhe, Germany. I also work as a **Freelancer** and as a **Trainer** at [Angular Architects](https://angulararchitects.io/).
 
-Here are some ideas to get you started:
+### 👨‍💻 What I do:
+- 🔭 I’m currently focused on **Web Development** using **Angular**, **Ionic**, and **Capacitor**.
+- 💬 I write about **web technologies** and my experiences on [dev.to](https://dev.to/danielsog).
+- 👯 I’m always looking to collaborate on **exciting web projects** and open-source initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies I work with:
+- **Frontend**: Angular, Ionic, Capacitor, TypeScript, JavaScript
+- **Backend**: Node.js, Nest.js
+- **Other**: Docker, Playwright, Cypress
+
+### 📫 How to reach me:
+- **Email**: [me@danielsogl.de](mailto:me@danielsogl.de)
+- **X**: [@sogldaniel](https://x.com/sogldaniel)
+- **LinkedIn**: [Daniel Sogl](https://www.linkedin.com/in/daniel-sogl/)
+
+Thanks for visiting! Feel free to reach out if you'd like to connect or collaborate.
