@@ -4,7 +4,7 @@ I am a **Software Architect** at [Thinktecture AG](https://www.thinktecture.com/
 
 ### 👨‍💻 What I do:
 - 🔭 I’m currently focused on **Web Development** using **Angular**, **Ionic**, and **Capacitor**.
-- 💬 I write about **web technologies** and my experiences on [dev.to](https://dev.to/danielsog).
+- 💬 I write about **web technologies** and my experiences on [dev.to](https://dev.to/danielsogl).
 - 👯 I’m always looking to collaborate on **exciting web projects** and open-source initiatives.
 
 ### 🛠 Technologies I work with:
